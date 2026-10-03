@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+google-genai
+python-dotenv
+
+# used only for running the tests
+pytest
+httpx
